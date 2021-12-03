@@ -475,6 +475,11 @@ p {
 
 }
 @media (max-width:500px){
+  .main{
+    display: block;
+    width: 100%;
+    height: 100%;
+    }  
   .sneakers{ 
     grid-template-columns: 1fr;
     gap: 60px;
