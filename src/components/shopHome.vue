@@ -474,7 +474,7 @@ p {
 
 
 }
-@media (max-width:500px){
+@media (max-width:500px){     
   .main{
     display: block;
     width: 100%;
@@ -483,8 +483,16 @@ p {
     font-family: 'Jost', sans-serif;
     }
     
-    .main .title {
-        font-size: 1 rem;
+    .main .title{
+      width: 90%;
+      margin: 0 auto;
+      margin-top: 20px;
+      text-transform: uppercase;
+      }
+    
+    .header h1{
+      font-size: 20px;
+      color: black;
     }
     
   .sneakers{ 
