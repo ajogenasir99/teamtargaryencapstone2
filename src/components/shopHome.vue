@@ -502,7 +502,9 @@ p {
     grid-template-columns: 1fr;
     gap: 60px;
   }
-}
+  .footer {
+    display: none;
+  }
 
 
 
