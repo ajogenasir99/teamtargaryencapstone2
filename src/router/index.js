@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import shopHome from '../components/shopHome.vue'
-import cartPage from '../components/CartPage.vue'
+import cartPage from '../components/cartPage.vue'
 import homepage from '../components/homepage.vue'
 
 Vue.use(Router)
