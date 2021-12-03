@@ -480,7 +480,13 @@ p {
     width: 100%;
     height: 100%;
     color: black;
-    }     
+    font-family: 'Jost', sans-serif;
+    }
+    
+    .main .title {
+        font-size: 1 rem;
+    }
+    
   .sneakers{ 
     grid-template-columns: 1fr;
     gap: 60px;
