@@ -480,18 +480,27 @@ p {
     width: 100%;
     height: 100%;
     }  
+    
+    h1 {
+    color: black;
+    }
+    p {
+    color: black;
+    }
+    
   .sneakers{ 
     grid-template-columns: 1fr;
     gap: 60px;
-  }
+    }
   .jackets{
     grid-template-columns: 1fr;
     gap: 60px;
-  }
+    }
+    
   .hats{
     grid-template-columns: 1fr;
     gap: 60px;
-  }
+    }
 
   .men{
     grid-template-columns: 1fr;
