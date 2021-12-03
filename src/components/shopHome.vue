@@ -504,6 +504,8 @@ p {
   }
   .footer {
     display: none;
+    }
+    
   }
 
 
